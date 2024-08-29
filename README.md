@@ -46,12 +46,6 @@ The Multiple Disease Prediction System is a machine learning model designed to p
 3. **Prediction:**
    - To make predictions, use the script in the `models/` directory or run the application file `app.py` (if applicable).
 
-## Example
-Here’s an example of how to run predictions after setting up the environment:
-```bash
-python src/predict.py --input_data sample_input.csv
-```
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -62,4 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or further information, please contact:
 - **Arunangshu Prasad Bhattacharya**  
   Email: bhattacharyaarun15@gmail.com  
-  LinkedIn: ap-bhattacharya(https://www.linkedin.com/in/ap-bhattacharya)
+  LinkedIn: ap-bhattacharya (https://www.linkedin.com/in/ap-bhattacharya)
