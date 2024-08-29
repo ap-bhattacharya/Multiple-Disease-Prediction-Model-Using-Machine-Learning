@@ -1,1 +1,1 @@
-streamlit run "C:\Users\Arun Bhattacharya\Desktop\Multiple Desease Prediction\multiple disease pred.py"
+streamlit run app.py
